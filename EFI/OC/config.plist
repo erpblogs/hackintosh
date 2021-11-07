@@ -985,7 +985,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02021404J9PHCDCB</string>
+			<string>C0202140-----</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -999,9 +999,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CRTZDPN5T</string>
+			<string>C02CRTZ------</string>
 			<key>SystemUUID</key>
-			<string>1F182877-A18F-4359-B5B5-D6BA4F5CF6A4</string>
+			<string>1F182877-A18F-4359-B5B5-----</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
