@@ -2,3 +2,6 @@
 /.idea/
 *.log
 *.DS_Store
+/EFI/OC/Drivers/.DS_Store
+/EFI/OC/Resources/.DS_Store
+/EFI/OC/Tools/.DS_Store
