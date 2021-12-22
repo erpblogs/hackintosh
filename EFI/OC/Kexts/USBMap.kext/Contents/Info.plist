@@ -109,7 +109,7 @@
 						BwAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS08</key>
 					<dict>
@@ -123,7 +123,7 @@
 					<key>HS09</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>0</integer>
 						<key>port</key>
 						<data>
 						CQAAAA==
