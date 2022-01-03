@@ -40,6 +40,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>SSDT-PNLF.aml</string>
+				<key>Path</key>
+				<string>SSDT-PNLF.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-USB-Reset.aml</string>
 				<key>Path</key>
 				<string>SSDT-USB-Reset.aml</string>
@@ -262,16 +270,26 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>AACbPg==</data>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,4,0</string>
 				<key>device-id</key>
-				<data>kj4AAA==</data>
-				<key>device_type</key>
-				<string>Display controller</string>
+				<data>mz4AAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
-				<key>model</key>
-				<string>Intel UHD Graphics 630</string>
+				<key>framebuffer-con0-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con0-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-con2-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con3-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con2-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-con3-type</key>
+				<data>AAgAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -550,6 +568,24 @@
 				<string>Any</string>
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>BrightnessKeys.kext</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/BrightnessKeys</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>BrightnessKeys.kext</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -1167,7 +1203,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020474044NPHCDFB</string>
+			<string>C02009701QX00001F</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1179,11 +1215,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac20,1</string>
+			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DQVY6PN5T</string>
+			<string>C02CCYYJP3XY</string>
 			<key>SystemUUID</key>
-			<string>9D16C6EA-691A-465B-AB5F-3639D7B33AA9</string>
+			<string>53DED785-44BA-4E37-BA5B-01A6FA0F0A86</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
